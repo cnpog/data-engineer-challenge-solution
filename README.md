@@ -39,4 +39,4 @@ How to run
   make runDockerBonus
 ```
 
-see [REPORT.md](https://github.com/cnpog/data-engineer-challenge-solution/DOCUMENTATION.md) for project description
+see [REPORT.md](https://github.com/cnpog/data-engineer-challenge-solution/blob/master/REPORT.md) for project description
